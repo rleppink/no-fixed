@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "No fixed",
+  "version": "1.0",
+
+  "description": "Unset all fixed elements on all webpages.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["no-fixed.js"]
+    }
+  ]
+}
