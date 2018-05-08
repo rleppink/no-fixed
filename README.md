@@ -8,4 +8,10 @@ elements. Those elements usually only serve as a distraction or annoyance readin
 - Website's menu, logo, header or footer that keeps scrolling with the content - obscuring that 
 which you want to read
 
+Example, only half of the article is visible and the social media buttons are worthless:
+
+![Google Blog](https://i.imgur.com/IZqYiNg.png)
+
+
 Super annoying.
+
